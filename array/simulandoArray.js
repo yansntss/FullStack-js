@@ -1,0 +1,1 @@
+const quaseArray = {0: 'Rafael', 1: 'yan', 2: 'Ana', 3: 'Bia'}

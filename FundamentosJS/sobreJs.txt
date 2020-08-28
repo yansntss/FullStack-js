@@ -1,0 +1,10 @@
+como o java Script é organizado? {
+    Por sentenças de codigo e podem ou não ter ";"
+
+    é organizado também por bloco de codigos, como essa q eu estou utilizadno, que sao delimitados por chaves "{}"
+
+    Função tem um bloco associado
+    Classe tem um bloco associado
+    if tem um bloco associado ou não
+    (...)
+}

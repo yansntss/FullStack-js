@@ -1,0 +1,5 @@
+4 princípais pilares da POO são:
+1. Herança
+2. Polimorfismo 
+3. Encapsulamento 
+4. Abstração

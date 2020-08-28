@@ -1,0 +1,17 @@
+const notas = [6.7, 7.4, 9.8, 8.1,5.5,0]
+
+for (i in notas){
+    console.log(i, notas[i])
+}
+
+const pessoa = {
+    nome: 'ana',
+    sobrenome: 'Silva',
+    idade: '29',
+    peso: 64
+}
+
+for (let atributo in pessoa){
+    //template string
+    console.log(`${atributo} = ${pessoa[atributo]}`)
+}
